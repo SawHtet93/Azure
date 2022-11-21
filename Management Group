@@ -1,0 +1,5 @@
+Create group
+New-AzManagementGroup -groupname "NameOfGP" -displayname "Group Name for display"
+
+Check Grop Status
+get azmanagementgroup
